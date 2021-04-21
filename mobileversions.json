@@ -5,7 +5,7 @@
         {
                "appstore": "https://apps.apple.com/us/app/coinpayments-crypto-wallet/id1162855939",
                "min": "3.0.0",
-               "max": "3.0.0"
+               "max": "3.1.0"
         },
         "droid":
         {
