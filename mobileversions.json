@@ -5,13 +5,13 @@
         {
                "appstore": "https://apps.apple.com/us/app/coinpayments-crypto-wallet/id1162855939",
                "min": "3.0.0",
-               "max": "3.1.0"
+               "max": "3.0.0"
         },
         "droid":
         {
                "appstore": "https://play.google.com/store/apps/details?id=net.coinpayments.coinpaymentsapp&hl=en_US",
                "min": "3.0.0",
-               "max": "3.1.0"
+               "max": "3.0.0"
         }
   },
 
@@ -21,13 +21,13 @@
         {
                "appstore": "https://apps.apple.com/us/app/coinpayments-crypto-wallet/id1162855939",
                "min": "3.0.0",
-               "max": "3.1.0"
+               "max": "3.0.0"
         },
         "droid":
         {
                "appstore": "https://play.google.com/store/apps/details?id=net.coinpayments.coinpaymentsapp&hl=en_US",
                "min": "3.0.0",
-               "max": "3.1.0"
+               "max": "3.0.0"
         }
   },
 
