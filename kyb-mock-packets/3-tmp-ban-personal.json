@@ -1,0 +1,30 @@
+{
+  "error": "ok",
+  "result": 
+  {
+    "status_of_kyc_flow": 2,
+    "type_of_user_account": 1,
+  	"status_of_ban": 1, 
+
+    "grace_period_status": 
+    {
+        "is_grace_period_active": false,
+        "timestamp_grace_period_begin": null,
+        "timestamp_grace_period_end": null,  
+    },
+
+
+    "business_account_info": null,
+
+
+    "personal_account_info": 
+      {
+        "username": "personal_ffa_1",
+        "merchant_id": "123456",
+        "email": "account@email.com",
+        "public_name": "personal with temporary ban", 
+      }
+
+
+  }
+}
