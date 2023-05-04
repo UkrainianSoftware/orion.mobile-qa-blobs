@@ -2,15 +2,15 @@
   "error": "ok",
   "result": 
   {
-    "status_of_kyc_flow": 2,
+    "status_of_kyc_flow": 0,
     "type_of_user_account": 1,
 	  "status_of_ban": 0, 
 
     "grace_period_status": 
     {
-        "is_grace_period_active": false,
-        "timestamp_grace_period_begin": null,
-        "timestamp_grace_period_end": null,  
+        "is_grace_period_active": true,
+        "timestamp_grace_period_begin": 1683218694,
+        "timestamp_grace_period_end": 1691167494,  
     },
 
 

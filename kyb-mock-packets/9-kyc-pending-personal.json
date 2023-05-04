@@ -2,7 +2,7 @@
   "error": "ok",
   "result": 
   {
-    "status_of_kyc_flow": 2,
+    "status_of_kyc_flow": 1,
     "type_of_user_account": 1,
 	  "status_of_ban": 0, 
 
