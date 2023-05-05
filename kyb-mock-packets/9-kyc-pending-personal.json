@@ -10,7 +10,7 @@
     {
         "is_grace_period_active": false,
         "timestamp_grace_period_begin": null,
-        "timestamp_grace_period_end": null,  
+        "timestamp_grace_period_end": null
     },
 
 
@@ -22,7 +22,7 @@
         "username": "personal_kyc_pending_9",
         "merchant_id": "0009",
         "email": "account@email.com",
-        "public_name": "personal kyc pending", 
+        "public_name": "personal kyc pending"
       }
 
 

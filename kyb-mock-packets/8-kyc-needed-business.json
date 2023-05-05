@@ -10,7 +10,7 @@
     {
         "is_grace_period_active": false,
         "timestamp_grace_period_begin": null,
-        "timestamp_grace_period_end": null,  
+        "timestamp_grace_period_end": null 
     },
 
 
@@ -19,10 +19,10 @@
         "username": "business_no_kyc_8",
         "merchant_id": "0008",
         "email": "account@email.com",
-        "public_name": "business restricted due to kyc", 
+        "public_name": "business restricted due to kyc"
      },
 
 
-    "personal_account_info": null,
+    "personal_account_info": null
   }
 }

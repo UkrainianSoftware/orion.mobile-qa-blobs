@@ -10,7 +10,7 @@
     {
         "is_grace_period_active": false,
         "timestamp_grace_period_begin": null,
-        "timestamp_grace_period_end": null,  
+        "timestamp_grace_period_end": null
     },
 
 
@@ -19,10 +19,10 @@
         "username": "business_tb_4",
         "merchant_id": "0004",
         "email": "account@email.com",
-        "public_name": "business with temporary ban", 
+        "public_name": "business with temporary ban"
      },
 
 
-    "personal_account_info": null,
+    "personal_account_info": null
   }
 }

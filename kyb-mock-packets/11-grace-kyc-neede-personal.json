@@ -10,7 +10,7 @@
     {
         "is_grace_period_active": true,
         "timestamp_grace_period_begin": 1683218694,
-        "timestamp_grace_period_end": 1691167494,  
+        "timestamp_grace_period_end": 1691167494
     },
 
 
@@ -22,7 +22,7 @@
         "username": "personal_gpkn_11",
         "merchant_id": "0011",
         "email": "account@email.com",
-        "public_name": "personal grace period kyc needed", 
+        "public_name": "personal grace period kyc needed"
       }
 
 
