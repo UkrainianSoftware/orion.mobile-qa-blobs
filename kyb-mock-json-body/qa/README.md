@@ -17,4 +17,13 @@ https://github.com/UkrainianSoftware/orion.mobile-qa-blobs/tree/feature/xm-1131-
 5. restart the mobile app
 
 
+```
+!!! CAUTION: please open the json file URL in the browser 
+             to make sure your changes have been applied. 
+```
+
+Sometimes github does not return them rigt away by the BLOB download link. Probably due to 
+their caching policies. Waiting for a couple of minutes should solve that.
+
+
 Happy testing.
