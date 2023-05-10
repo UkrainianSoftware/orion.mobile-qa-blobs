@@ -5,7 +5,7 @@
 
     "grace_period_status": 
     {
-        "is_grace_period_active": "0",
+        "is_grace_period_active": false,
         "timestamp_grace_period_begin": null,
         "timestamp_grace_period_end": null
     },
@@ -16,7 +16,8 @@
         "username": "business_ffa_2",
         "merchant_id": "0002",
         "email": "account@email.com",
-        "public_name": "business no restrictions"
+        "public_name": "business no restrictions",
+        "is_incorporated": false
      },
 
 

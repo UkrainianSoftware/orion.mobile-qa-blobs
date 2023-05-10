@@ -6,7 +6,7 @@
 
     "grace_period_status": 
     {
-        "is_grace_period_active": "0",
+        "is_grace_period_active": false,
         "timestamp_grace_period_begin": null,
         "timestamp_grace_period_end": null 
     },
@@ -17,7 +17,8 @@
         "username": "business_kyc_pending_10",
         "merchant_id": "0010",
         "email": "account@email.com",
-        "public_name": "business with kyc pending"
+        "public_name": "business with kyc pending",
+        "is_incorporated": false
      },
 
 
