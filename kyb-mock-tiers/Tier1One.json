@@ -4,6 +4,7 @@
     "kyc_status": true,
     "kyc_tier": 1,
     "kyc_msg": false,
+    "kyc_country": "UA",
     "kyc_volume_limit": 10000000000000,
     "kyc_volume_used": 0,
     "status_of_kyc_flow": 2,

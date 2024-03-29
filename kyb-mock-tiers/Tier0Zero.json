@@ -3,6 +3,7 @@
   "result": {
     "kyc_status": false,
     "kyc_tier": 0,
+    "kyc_country": "",
     "kyc_msg": "To comply with financial regulations, we are required to collect information about our users. Please complete account verification to get full access to CoinPayments' services. In most cases, the verification takes only a few minutes. <a href=\"https://staging.coinpayments.net/acct-kyc\">Start verification...</a>",
     "kyc_volume_limit": 0,
     "kyc_volume_used": 0,
