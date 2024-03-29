@@ -4,7 +4,7 @@
     "kyc_msg": false,
     "kyc_country": "UA",
     "kyc_volume_limit": 10000000000000,
-    "kyc_volume_used": 0,
+    "kyc_volume_used": 3200000000000,
     "status_of_kyc_flow": 2,
     "type_of_user_account": 2,
     "status_of_ban": 0,
