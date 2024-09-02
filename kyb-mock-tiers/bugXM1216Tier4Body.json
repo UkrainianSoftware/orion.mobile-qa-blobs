@@ -1,0 +1,24 @@
+  {
+    "kyc_status": true,
+    "kyc_tier": 4,
+    "kyc_msg": false,
+    "kyc_country": "CA",
+    "kyc_volume_limit": 24825065081,
+    "kyc_volume_used": 100000000000000,
+    "status_of_kyc_flow": 3,
+    "type_of_user_account": 1,
+    "status_of_ban": 0,
+    "grace_period_status": {
+      "is_grace_period_active": false,
+      "timestamp_grace_period_end": null
+    },
+    "business_account_info": {
+      "username": "fdsk786340",
+      "merchant_id": "65*******8b",
+      "email": "g****-***r@hotmail.com",
+      "public_name": "",
+      "is_incorporated": false
+    }
+  }
+
+
