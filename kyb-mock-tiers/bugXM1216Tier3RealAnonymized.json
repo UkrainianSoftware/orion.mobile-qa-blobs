@@ -1,0 +1,22 @@
+{
+  "acct_type": "personal",
+  "kyc_status": true,
+  "kyc_tier": 3,
+  "kyc_msg": false,
+  "kyc_country": "CA",
+  "kyc_volume_limit": 100000000000000,
+  "kyc_volume_used": 31746674525,
+  "status_of_kyc_flow": 2,
+  "type_of_user_account": 1,
+  "status_of_ban": 0,
+  "grace_period_status": {
+    "is_grace_period_active": false,
+    "timestamp_grace_period_end": null
+  },
+  "personal_account_info": {
+    "username": "A****2145",
+    "merchant_id": "569b10ad6e3fcf8e899a7750eae9a639",
+    "email": "g****-***r@hotmail.com",
+    "public_name": ""
+  }
+}
