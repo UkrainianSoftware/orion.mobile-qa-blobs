@@ -1,4 +1,5 @@
   {
+    "acct_type": "personal",
     "kyc_status": true,
     "kyc_tier": 4,
     "kyc_msg": false,
