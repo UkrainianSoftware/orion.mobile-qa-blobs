@@ -1,0 +1,17 @@
+{
+    "status_of_kyc_flow": 0,
+    "type_of_user_account": 2,
+    "status_of_ban": 0,
+    "grace_period_status": {
+      "is_grace_period_active": false,
+      "timestamp_grace_period_begin": 0,
+      "timestamp_grace_period_end": 0
+    },
+    "business_account_info": {
+      "username": "JayKYB",
+      "merchant_id": "220e2b040f006de48d4bc5042e88debc",
+      "email": "jaykaybie+KYB@hotmail.com",
+      "public_name": "",
+      "is_incorporated": false
+    }
+  }
