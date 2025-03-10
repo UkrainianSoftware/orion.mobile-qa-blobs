@@ -1,0 +1,23 @@
+{
+    "acct_type": "merchant",
+    "kyc_status": true,
+    "kyc_tier": 5,
+    "kyc_msg": false,
+    "kyc_country": "KE",
+    "kyc_volume_limit": -1,
+    "kyc_volume_used": 4057957083121800,
+    "status_of_kyc_flow": 2,
+    "type_of_user_account": 2,
+    "status_of_ban": 0,
+    "grace_period_status": {
+      "is_grace_period_active": false,
+      "timestamp_grace_period_end": null
+    },
+    "business_account_info": {
+      "username": "k******d",
+      "merchant_id": "f******f",
+      "email": "m*****d@gmail.com",
+      "public_name": "",
+      "is_incorporated": true
+    }
+}
