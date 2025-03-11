@@ -1,7 +1,7 @@
 {
     "acct_type": "merchant",
     "kyc_status": true,
-    "kyc_tier": 3,
+    "kyc_tier": 0,
     "kyc_msg": false,
     "kyc_country": "KE",
     "kyc_volume_limit": 0,
